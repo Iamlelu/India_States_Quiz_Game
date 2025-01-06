@@ -7,8 +7,7 @@ To show case  python proficiency with
            3. Classes and objects
            
 
-![snake_image](Screenshot(28).png)           
-![intro_image](./India_States_Quiz_Game/Screenshot(25).png) 
+![snake_image](Screenshot(25).png)           
 ![true_image](./Screenshot(26).png) 
 ![norm_image](./Screenshot(27).png) 
 ![false_image](./Screenshot(28).png)
