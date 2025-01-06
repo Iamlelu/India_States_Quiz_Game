@@ -7,7 +7,7 @@ To show case  python proficiency with
            3. Classes and objects
            
 
-           
+![snake_image](snake_image2.png)           
 ![intro_image](./India_States_Quiz_Game/Screenshot (25).png) 
 ![true_image](./Screenshot (26).png) 
 ![norm_image](./Screenshot (27).png) 
