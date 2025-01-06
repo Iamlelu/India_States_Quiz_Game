@@ -8,7 +8,7 @@ To show case  python proficiency with
            
 
            
-![intro_image](Screenshot (25).png)
+![intro_image](India_States_Quiz_Game/Screenshot (25).png)
 ![true_image](Screenshot (26).png)
 ![norm image](Screenshot (27).png)
 ![false_image](Screenshot (28).png)
